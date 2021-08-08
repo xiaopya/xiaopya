@@ -1,2 +1,2 @@
-##### ![mona-whisper](https://github.com/start-point/mona-whisper.gif)Hi there
+##### ![mona-whisper](./images/mona-whisper.gif)Hi there
 
