@@ -7,4 +7,4 @@
 - 🎉熟悉 React, TypeScript, Sass... 
 - 🎉网邮：echo_c120@163.com 
 - 🎉CSDN: https://cyl-log.blog.csdn.net/
-- 🎉website: cyl.cool
+- 🎉website: https://cyl.cool/
