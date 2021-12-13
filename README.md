@@ -5,4 +5,5 @@
 
 - 🎉我是一名走在前端开发
 - 🎉熟悉 React, TypeScript, Sass... 
-- 🎉电邮：echo_c120@163.com 
+- 🎉网邮：echo_c120@163.com 
+- 🎉CSDN: https://cyl-log.blog.csdn.net/
