@@ -7,5 +7,5 @@
 - 👴CSDN: https://cyl-log.blog.csdn.net/
 - 🎲website: https://cyl.cool/ (正在更换)
 
-<img style="width: 50%" src="https://github-readme-stats.vercel.app/api?username=start-point&theme=dracula" />
-<img style="width: 50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=start-point&theme=dracula" />
+<img align="" src="https://github-readme-stats.vercel.app/api?username=start-point&theme=dracula" />
+<img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=start-point&theme=dracula" />
