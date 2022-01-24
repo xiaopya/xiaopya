@@ -1,5 +1,5 @@
 ## 😜 ME 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=start-point&theme=dracula" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=start-point" />
 
 哈喽<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
