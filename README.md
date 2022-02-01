@@ -8,4 +8,5 @@
 - 📫网邮：echo_c120@163.com 
 - 👴CSDN: https://cyl-log.blog.csdn.net/
 - 🎲website: https://cyl.cool/ (正在更换)
-<p>👍: <img align='center' src="https://profile-counter.glitch.me/start-point/count.svg" /></p>
+- <p>🎉: <img align='center' src="https://profile-counter.glitch.me/start-point/count.svg" /></p>
+
