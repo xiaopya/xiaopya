@@ -1,6 +1,4 @@
 ## 😜 ME 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=start-point&theme=dracula" />
-
 - **web开发**
 
 <p>
@@ -33,5 +31,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 </p>
+
+<p>🎉: <img align='center' src="https://profile-counter.glitch.me/start-point/count.svg" /></p>
 
 
