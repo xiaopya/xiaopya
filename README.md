@@ -29,6 +29,4 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-<p>🎉: <img align='center' src="https://profile-counter.glitch.me/start-point/count.svg" /></p>
-
 
